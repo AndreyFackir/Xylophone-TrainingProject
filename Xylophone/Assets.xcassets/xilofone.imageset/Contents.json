@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "music-wood-guitar-red-color-instrument-musical-instrument-close-up-sound-xylophone-percussion-instrument-string-instrument-mallets-plucked-string-instruments-1092843.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
