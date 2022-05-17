@@ -1,3 +1,2 @@
-![Image alt](https://github.com/AndreyFackir/Xylophone-TrainingProject/raw/main/
-
+![Image alt](https://github.com/AndreyFackir/Xylophone-TrainingProject/tree/main/Xylophone/Assets.xcassets/xilofone.imageset)
 # Xylophone-TrainingProject
